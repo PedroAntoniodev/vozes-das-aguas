@@ -1,6 +1,6 @@
 import ReactPlayer from 'react-player';
 
-import { FaFacebook, FaInstagram, FaTiktok, FaYoutube } from 'react-icons/fa6';
+import { FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa6';
 
 import * as S from './styles';
 import { Container, Line, Paragraph, SectionTitle } from '../../styles';
@@ -40,14 +40,6 @@ const SocialSection = () => {
                 rel="noopener noreferrer"
               >
                 <FaInstagram />
-              </a>
-              <a
-                href="#"
-                title="TikTok"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FaTiktok />
               </a>
               <a
                 href="https://www.youtube.com/@ConselhoPastoralRegionalSul"
