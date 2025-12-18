@@ -1,7 +1,7 @@
 import * as S from './styles';
 import { ImageSection, Subtitle, Paragraph, Container } from '../../styles';
 
-import Img from '../../assets/images/imagem2.jpg';
+import Img from '/images/imagem2.webp';
 import { WaveIcon } from '../icons';
 
 const TextImageSection = () => {

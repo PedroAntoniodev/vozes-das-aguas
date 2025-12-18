@@ -5,7 +5,7 @@ import CustomLink from '../../utils/CustomLink';
 import { Container } from '../../styles';
 import * as S from './styles';
 
-import ImgLogo from '../../assets/images/logo_projeto.png';
+import ImgLogo from '/images/logo_projeto.webp';
 
 type Props = {
   scrolled: boolean;

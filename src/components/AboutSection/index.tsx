@@ -1,7 +1,7 @@
 import { Container, Paragraph, SectionTitle, Subtitle } from '../../styles';
 import * as S from './styles';
 
-import LogoCpp from '../../assets/images/logo_cpp.png';
+import LogoCpp from '/images/logo_cpp.webp';
 
 const AboutSection = () => {
   return (

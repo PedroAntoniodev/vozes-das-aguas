@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 import { Colors } from '../../styles/';
 
-import ImgHero from '../../assets/images/pesca.jpg';
+import ImgHero from '/images/pesca.webp';
 import { animatedText } from '../../styles/TextAnimated';
 
 export const HeroSection = styled.section`

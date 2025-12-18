@@ -2,7 +2,7 @@ import { Container, ImageSection, Paragraph, Subtitle } from '../../styles';
 import * as S from './styles';
 
 import { WaveIcon } from '../icons/WaveIcon';
-import Img from '../../assets/images/imagemHero.jpg';
+import Img from '/images/imagemHero.webp';
 
 const ImageTextSection = () => {
   return (

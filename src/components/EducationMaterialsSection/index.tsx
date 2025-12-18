@@ -1,12 +1,12 @@
 import { Container, SectionTitle } from '../../styles';
 import * as S from './styles';
 
-import ImgCartilhaPesca from '../../assets/images/cartilha_pesca.jpg';
-import ImgDiagnosticoCosteiro from '../../assets/images/diagnostico_costeiro.jpg';
-import ImgDiagnosticoDaPesca from '../../assets/images/pesca_artesanal_santamarta.jpg';
-import ImgCapaLivro from '../../assets/images/capa_livro.png';
-import ImgPescaArtesanal from '../../assets/images/pesca_artesanal_sc.jpg';
-import ImgRelatorioCpp from '../../assets/images/relatorio_cpp.jpg';
+import ImgCartilhaPesca from '/images/cartilha_pesca.webp';
+import ImgDiagnosticoCosteiro from '/images/diagnostico_costeiro.webp';
+import ImgDiagnosticoDaPesca from '/images/pesca_artesanal_santamarta.webp';
+import ImgCapaLivro from '/images/capa_livro.webp';
+import ImgPescaArtesanal from '/images/pesca_artesanal_sc.webp';
+import ImgRelatorioCpp from '/images/relatorio_cpp.webp';
 
 const EducationMaterialsSection = () => {
   return (

@@ -3,8 +3,8 @@ import CustomLink from '../../utils/CustomLink';
 import { Container, Line } from '../../styles';
 import * as S from './styles';
 
-import LogoCpp from '../../assets/images/logo_cpp_footer.png';
-import LogoLabora from '../../assets/images/logo_fundo_brasil_footer.png';
+import LogoCpp from '/images/logo_cpp_footer.webp';
+import LogoLabora from '/images/logo_fundo_brasil_footer.webp';
 
 const Footer = () => {
   return (
