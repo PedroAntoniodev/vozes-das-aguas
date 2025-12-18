@@ -45,7 +45,7 @@ const ImageTextSection = () => {
                 </li>
               </S.List>
             </S.ListContainer>
-            <Subtitle>Por que o projeto é também sobre clima?</Subtitle>
+            <Subtitle>Esses fatores afetam diretamente:</Subtitle>
             <S.ListContainer>
               <S.List>
                 <li>

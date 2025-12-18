@@ -18,7 +18,9 @@ const Header = ({ scrolled }: Props) => {
     <S.HeaderContainer $scrolled={scrolled} $menuOpen={menuOpen}>
       <Container>
         <S.HeaderContent>
-          <S.Logo src={ImgLogo} alt="Logo" />
+          <CustomLink to="/">
+            <S.Logo src={ImgLogo} alt="Logo do Projeto" />
+          </CustomLink>
           <S.HamburguerMenu
             $menuOpen={menuOpen}
             onClick={() => setMenuOpen(!menuOpen)}

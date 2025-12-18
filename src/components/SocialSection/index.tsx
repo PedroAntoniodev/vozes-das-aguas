@@ -16,7 +16,7 @@ const SocialSection = () => {
           <S.VideoContainer>
             <ReactPlayer
               src="https://www.youtube.com/embed/J_28sCIqyiI?si=Uh4L2tVekll_e85a"
-              controls={false}
+              controls={true}
               width={'100%'}
               height={'100%'}
             />
